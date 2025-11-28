@@ -8,8 +8,9 @@
 
 ## Die Entwicklung der Tansistoren
 
-## Die Entwicklung der Integrierten Speicherdaten
+## Die Entwicklung der Integrierten Computer
 
 ## Zusammenfassung
+
 
 ## Literatur
