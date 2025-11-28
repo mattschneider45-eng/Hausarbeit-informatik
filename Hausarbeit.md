@@ -8,11 +8,10 @@
 
 ## Die Entwicklung der Tansistoren
 
-## Die Entwicklung der Integrierten Computer
+## Die Entwicklung der Integrierten Speicherdaten
 
 ## Die Zeit der mobielen Endgeräten
 
 ## Zusammenfassung
-
 
 ## Literatur
